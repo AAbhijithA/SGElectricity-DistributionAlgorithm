@@ -6,6 +6,8 @@ This following project uses The Minimum Spanning Tree over the connected compone
 This aims to help direct the flow of the excess electricity to a grid and then redistribute
 it to houses which need electricity
 
+(refer to ipynb for better interactivity else use py file in src)
+
 This is a very useful approach in todays day and scenario
 as this approach can efficiently help us to direct the electricity and 
 also check the electric consumption by each person who needs it and track
@@ -19,6 +21,7 @@ We will focus on our application here
 (Note: The weights here are the distance between each vertex as a 2D plane)
 
 lets assume green is the houses giving the electricity (excess) and red is the ones taking it (needy)
+and 5 of each as shown
 and we also assume that the two categories of houses are going to be connected componenents
 
 ![](Result/Image1.png)
