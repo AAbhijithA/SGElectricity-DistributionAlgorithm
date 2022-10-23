@@ -18,7 +18,8 @@ and we also assume that the two categories of houses are going to be connected c
 
 ![](Result/Image1.png)
 
-Now we place a grid by finding the least distance between the vertexes and place it in between
+Now we place a grid by finding the least distance between the vertexes and place it in between so the yellow vertex is going to be the
+energy grid
 
 ![](Result/Image2.png)
 
