@@ -1,4 +1,6 @@
 # SolarElectricity-Distribution
+(Uses matplotlib and networkx)
+
 This following project uses The Minimum Spanning Tree over the connected components
 (Here the two connected components are the Giving houses and the taking houses)
 This aims to help direct the flow of the excess electricity to a grid and then redistribute
@@ -21,7 +23,8 @@ and we also assume that the two categories of houses are going to be connected c
 
 ![](Result/Image1.png)
 
-Now we place a grid by finding the least distance between the vertexes and place it in between so the yellow vertex is going to be the
+Now we place a grid by finding the least distance between the vertex pair of the needy and giving components 
+(assuming fairness in recieve and transmission)and place it in between so the yellow vertex is going to be the
 energy grid
 
 ![](Result/Image2.png)
