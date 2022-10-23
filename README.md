@@ -11,5 +11,9 @@ who gives the electricity so someone can not overuse the solar electricity gener
 by directly connecting it to them
 
 The Minimum Spanning Tree algorithm has been used for finding the most minimized costs
-
+The following below is an example of how its used for Map realted activities
 ![image](https://user-images.githubusercontent.com/113827354/197419010-b878c2f2-443f-40a9-83af-7d548a17f5e3.png)
+
+We will focus on our application here
+lets assume green is the houses giving the electricity (excess) and red is the ones taking it (needy)
+
