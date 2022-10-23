@@ -15,6 +15,7 @@ We will focus on our application here
 
 # How the Idea works
 (Note: The weights here are the distance between each vertex as a 2D plane)
+
 lets assume green is the houses giving the electricity (excess) and red is the ones taking it (needy)
 and we also assume that the two categories of houses are going to be connected componenents
 
