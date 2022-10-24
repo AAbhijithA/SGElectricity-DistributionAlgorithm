@@ -1,4 +1,4 @@
-# SolarElectricity-Distribution
+# SGElectricity-DistributionAlgorithm
 (Uses matplotlib and networkx)
 
 This following project uses The Minimum Spanning Tree over the connected components
