@@ -20,3 +20,7 @@ nx.draw(...,node_size=x,...)
 
 where x is any value you wish the node to be
 'The default size of a node is x = 300'
+
+In my ipynb I used 20 giving and 15 recieving houses so the network is huge
+
+Hence I used nodesize as 20
