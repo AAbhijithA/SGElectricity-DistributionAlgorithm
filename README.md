@@ -1,5 +1,5 @@
 # SGElectricity-DistributionAlgorithm
-(Uses matplotlib and networkx) & (also done in C (but only the end result in adjaceny matrix (no visulaization))
+(Uses matplotlib and networkx) & (also done in C but only the end result in adjaceny matrix (no visulaization))
 
 This following project uses The Minimum Spanning Tree over the connected components
 (Here the two connected components are the Giving houses and the taking houses)
