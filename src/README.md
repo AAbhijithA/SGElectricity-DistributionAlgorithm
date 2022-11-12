@@ -6,9 +6,9 @@ both the source code has been given
 
 ### Versions for both the libraries
 
-networkx = 2.8.7
+networkx==2.8.7
 
-matplotlib = 3.6.0
+matplotlib==3.6.0
 
 ### Warnings
 
