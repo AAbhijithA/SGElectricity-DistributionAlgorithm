@@ -1,6 +1,8 @@
 # SGElectricity-DistributionAlgorithm
 (Uses matplotlib and networkx) & (also done in C but only the end result in adjaceny matrix (no visulaization))
-
+### Note
+Please refer to the src files for details and on the process and understanding of the algorithm code
+# About the Algorithm
 This following project uses The Minimum Spanning Tree over the connected components
 (Here the two connected components are the Giving houses and the taking houses)
 This aims to help direct the flow of the excess electricity to a grid and then redistribute
